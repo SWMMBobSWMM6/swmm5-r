@@ -1,0 +1,24 @@
+[
+ {
+  "id": "325fd17cef32",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/sewer_rdii_problem.inp",
+  "status": "CRASH+RPTDIFF+OUTDIFF",
+  "sec": 20.73,
+  "rc": -9,
+  "first_rpt_diff": [
+   1,
+   "len 397",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "6acae610736f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/bug_item8_link_seepage.inp",
+  "status": "PASS",
+  "sec": 15.784,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

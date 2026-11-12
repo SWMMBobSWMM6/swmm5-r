@@ -1,0 +1,8 @@
+printf %f-family      1082106 cases, 0 differ
+printf int              84000 cases, 0 differ
+printf long             23598 cases, 0 differ
+printf string              81 cases, 0 differ
+strtod                 200052 cases, 0 differ
+sscanf                     13 cases, 0 differ
+all                   1389850 cases, 0 differ; 4402 %ld cases skipped (|value| >= 2^53, not representable in an R double)
+exit 0

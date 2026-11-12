@@ -1,0 +1,15 @@
+[
+ {
+  "id": "60dda48e3fd9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/27_Subs_Horton.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.109,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 458",
+   "len 1"
+  ],
+  "stderr": ""
+ }
+]

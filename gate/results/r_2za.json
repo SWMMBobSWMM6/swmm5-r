@@ -1,0 +1,20 @@
+[
+ {
+  "id": "323879d389f5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/15_Subs_SI_Units.inp",
+  "status": "PASS",
+  "sec": 879.564,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f7e5e05a7cac",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/HEC_HMS_HYETOGRAPHS.inp",
+  "status": "PASS",
+  "sec": 27.478,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

@@ -1,0 +1,17 @@
+r_1a  e619e57eddb1  Hydraulics/HRSDtest_cim_7.inp  stopped after 1800 s: .out 115027968 of 229761803 bytes written, identical to EPA's so far; .rpt 144 of 1218 lines written, identical so far
+r_2e  c61e91bbee6f  EPA/429_H&H_Elements.inp  stopped after 1800 s: .out 864256 of 2908675 bytes written, identical to EPA's so far; .rpt 1555 of 2850 lines written, identical so far
+r_2f  82215f471e79  EPA/380_nodes.inp  stopped after 1800 s: .out 6033408 of 7319608 bytes written, identical to EPA's so far; .rpt 355 of 3101 lines written, identical so far
+r_2h  2bd2002b905c  Hydrology/17_Sub_90_Link_USA_Units.inp  stopped after 1800 s: .out 1318912 of 3992879 bytes written, identical to EPA's so far; .rpt 0 of 634 lines written, identical so far
+r_2i  10245dda6972  Hydrology/292_Storage_Nodes_200_Subs.inp  stopped after 1800 s: .out 1323008 of 2917344 bytes written, identical to EPA's so far; .rpt 0 of 2925 lines written, identical so far
+r_2l  0046cb3452b3  Hydrology/short_trap_SW5.inp  stopped after 1800 s: .out 12288 of 16518 bytes written, identical to EPA's so far; .rpt 0 of 170 lines written, identical so far
+r_2p  fcdbc4886a73  EPA/72_H&H_Elements(2).inp  stopped after 1800 s: .out 0 of 440275 bytes written, identical to EPA's so far; .rpt 1499 of 1935 lines written, identical so far
+r_2o  a4bb56859280  EPA/HRSDtest_cim_7.inp  stopped after 1800 s: .out 113192960 of 229761803 bytes written, identical to EPA's so far; .rpt 144 of 1218 lines written, identical so far
+r_2r  5db30c611edb  Hydrology/user5_sub_patterns.inp  stopped after 1800 s: .out 1064960 of 1622749 bytes written, identical to EPA's so far; .rpt 0 of 1392 lines written, identical so far
+r_2u  a13e9d5589fb  EPA/attenuation_DW_High_CE.inp  stopped after 1800 s: .out 22540288 of 57546553 bytes written, identical to EPA's so far; .rpt 132 of 378 lines written, identical so far
+r_4d  325fd17cef32  Hydrology/sewer_rdii_problem.inp  stopped after 1800 s: .out 3391488 of 19966686 bytes written, identical to EPA's so far; .rpt 0 of 397 lines written, identical so far
+r_2y  36d039d18ca7  Hydrology/22_Subs.inp  stopped after 1800 s: .out 552960 of 573965 bytes written, identical to EPA's so far; .rpt 0 of 443 lines written, identical so far
+r_2z  17bc23add21e  Hydrology/CN_Horton.inp  stopped after 1800 s: .out 20021248 of 43832913 bytes written, identical to EPA's so far; .rpt 0 of 1442 lines written, identical so far
+r_2a  60dda48e3fd9  Hydrology/27_Subs_Horton.inp  stopped after 1800 s: .out 151552 of 239085 bytes written, identical to EPA's so far; .rpt 0 of 458 lines written, identical so far
+r_2ba  77e00bc268b0  Hydrology/SCANLON.inp  stopped after 1800 s: .out 11669504 of 78975850 bytes written, identical to EPA's so far; .rpt 992 of 2976 lines written, identical so far
+r_vc  f38e317a191b  EPA/small_wwf_dwf.inp  stopped after 1800 s: .out 835584 of 857852 bytes written, identical to EPA's so far; .rpt 217 of 717 lines written, identical so far
+r_main  f38e317a191b  EPA/small_wwf_dwf.inp  stopped after 1800 s: .out 765952 of 857852 bytes written, identical to EPA's so far; .rpt 217 of 717 lines written, identical so far

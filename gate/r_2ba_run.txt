@@ -1,0 +1,2 @@
+r_2ba: 1 models  TIMEOUT+RPTDIFF+OUTDIFF 1
+  TIMEOUT+RPTDIFF+OUTDIFF Hydrology/SCANLON.inp  (992, 'Dry Time Step ............ 00:24:00', 'Dr')

@@ -1,0 +1,159 @@
+[
+ {
+  "id": "fcdbc4886a73",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/72_H&H_Elements(2).inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.016,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1499,
+   "0.6317     0.6467     0.6617     0.6817     0.7042",
+   ""
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "801c228f71f3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/Small_Pump_FM.inp",
+  "status": "PASS",
+  "sec": 12.881,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5a7a9724f6b7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/pumps_activated_sludge.inp",
+  "status": "PASS",
+  "sec": 12.474,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d66ef99143d1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/small_hydraulic_linear_SI_Units.inp",
+  "status": "PASS",
+  "sec": 132.584,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c23644f77ee4",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/small_linear_si_unit_model.inp",
+  "status": "PASS",
+  "sec": 9.826,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "484f4af3375e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/4687079-extran_pid_3_master.inp",
+  "status": "PASS",
+  "sec": 66.142,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "27627a2c2162",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/EXAM80A_SW5.inp",
+  "status": "PASS",
+  "sec": 42.626,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "57dd3f5f1c97",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/extran1_power.inp",
+  "status": "PASS",
+  "sec": 11.22,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "74011ca35a52",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/extran1_semi_elliptical.inp",
+  "status": "PASS",
+  "sec": 7.31,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "e7ab14da9ac3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/high_elevation_model.inp",
+  "status": "PASS",
+  "sec": 47.508,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7db58b7346ae",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/DUPUIT-FORCHHEIMER APPROXIMATION FOR SUBSURFACE Flow.inp",
+  "status": "PASS",
+  "sec": 6.566,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "0ec23791c53f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/EXAM79_SW5.inp",
+  "status": "PASS",
+  "sec": 20.783,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "15871f274d32",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_culvert_codes.inp",
+  "status": "PASS",
+  "sec": 17.014,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "1a2ada837a66",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_inertial_partial.inp",
+  "status": "PASS",
+  "sec": 14.713,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f350c817d09b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_init_flow.inp",
+  "status": "PASS",
+  "sec": 13.575,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ca45bfc66bc7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_normal_froude.inp",
+  "status": "PASS",
+  "sec": 13.943,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "39d6e9ae3165",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outfall_gated.inp",
+  "status": "PASS",
+  "sec": 15.266,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

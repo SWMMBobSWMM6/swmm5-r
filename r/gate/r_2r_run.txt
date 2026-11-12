@@ -1,0 +1,2 @@
+r_2r: 2 models  PASS 1, TIMEOUT+RPTDIFF+OUTDIFF 1
+  TIMEOUT+RPTDIFF+OUTDIFF Hydrology/user5_sub_patterns.inp  (1, 'len 1392', 'len 1')

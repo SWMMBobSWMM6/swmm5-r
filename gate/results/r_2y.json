@@ -1,0 +1,51 @@
+[
+ {
+  "id": "36d039d18ca7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/22_Subs.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.107,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 443",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "9d5b5a1642c2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_long_r2_only.inp",
+  "status": "PASS",
+  "sec": 461.595,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "fc2a5ead84d1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/LID_SIngle_Outfall_Upstream.inp",
+  "status": "PASS",
+  "sec": 9.418,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "36bf89416790",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_lengthening_step.inp",
+  "status": "PASS",
+  "sec": 14.147,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "590d9797ed39",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_surcharge_extran.inp",
+  "status": "PASS",
+  "sec": 14.022,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

@@ -1,0 +1,33 @@
+[
+ {
+  "id": "9c42b9b225d2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/air_release_valve.inp",
+  "status": "PASS",
+  "sec": 871.709,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "0046cb3452b3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/short_trap_SW5.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.112,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 170",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "f0a360644a04",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/lid2_continuous_30day.inp",
+  "status": "PASS",
+  "sec": 12.99,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

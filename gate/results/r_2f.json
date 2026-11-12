@@ -1,0 +1,78 @@
+[
+ {
+  "id": "82215f471e79",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/380_nodes.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.11,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   355,
+   "WARNING 04: minimum elevation drop used for Conduit 751",
+   "WARNING 04: minimum"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "e31a82bb3714",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/Mater_Extran_Vnotch.inp",
+  "status": "PASS",
+  "sec": 114.522,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7eb66eca4890",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/small_pump_fm_model.inp",
+  "status": "PASS",
+  "sec": 605.063,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9a7125b5bd7a",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/greenroofs.inp",
+  "status": "PASS",
+  "sec": 34.887,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "cc743b6b28b2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/EXAM21_SW5.inp",
+  "status": "PASS",
+  "sec": 9.343,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "e903c48bb7df",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran5.inp",
+  "status": "PASS",
+  "sec": 7.66,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f0901af87726",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran6.inp",
+  "status": "PASS",
+  "sec": 8.513,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "113778352217",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/test3.inp",
+  "status": "PASS",
+  "sec": 26.781,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

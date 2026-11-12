@@ -1,0 +1,42 @@
+[
+ {
+  "id": "c61e91bbee6f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/429_H&H_Elements.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.086,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1555,
+   "0.9798     0.9833     0.9868     0.9903     0.9938",
+   ""
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "184d26d392f9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/extran1_gothic.inp",
+  "status": "PASS",
+  "sec": 6.428,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c0f017740d3e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/10_Subs_Continuous.inp",
+  "status": "PASS",
+  "sec": 625.418,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "32c27e07d740",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outfall_normal.inp",
+  "status": "PASS",
+  "sec": 14.396,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

@@ -1,0 +1,33 @@
+[
+ {
+  "id": "a4bb56859280",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/HRSDtest_cim_7.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.07,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   144,
+   "WARNING 04: minimum elevation drop used for Conduit 141",
+   "WARNING 04: minimum elevation"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "76c29506f8c5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/simple_two_pump_model.inp",
+  "status": "PASS",
+  "sec": 99.089,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c9890a3625ad",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/LID_Master_Sustain.inp",
+  "status": "PASS",
+  "sec": 10.04,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

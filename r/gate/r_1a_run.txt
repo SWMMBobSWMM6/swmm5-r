@@ -1,0 +1,2 @@
+r_1a: 14 models  PASS 13, TIMEOUT+RPTDIFF+OUTDIFF 1
+  TIMEOUT+RPTDIFF+OUTDIFF Hydraulics/HRSDtest_cim_7.inp  (144, 'WARNING 04: minimum elevation drop used for Conduit 141', 'WARNING 04: minimum elevation')

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "f38e317a191b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/small_wwf_dwf.inp",
+  "status": "PASS",
+  "sec": 1740.036,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5859b2460aad",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_divider.inp",
+  "status": "PASS",
+  "sec": 9.265,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "a9162fd12f84",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_multi_inflows.inp",
+  "status": "PASS",
+  "sec": 14.24,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

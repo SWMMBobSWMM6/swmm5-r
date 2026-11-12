@@ -1,0 +1,29 @@
+[
+ {
+  "id": "a058493507b5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_long.inp",
+  "status": "PASS",
+  "sec": 525.195,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f4a16472e107",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_long_r3_only.inp",
+  "status": "PASS",
+  "sec": 458.973,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "55393df61d0a",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/save_rtk_long.inp",
+  "status": "PASS",
+  "sec": 457.576,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

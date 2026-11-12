@@ -1,0 +1,119 @@
+[
+ {
+  "id": "5e77d35591dd",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/221_H&H_SI_Units_Elements(2).inp",
+  "status": "PASS",
+  "sec": 746.858,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2f92846d999d",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/empty_user4_extran_SW5.inp",
+  "status": "PASS",
+  "sec": 1051.904,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d41302718dc4",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_power.inp",
+  "status": "PASS",
+  "sec": 11.455,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "4382da88dc6a",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/siphon_larger_SW5.inp",
+  "status": "PASS",
+  "sec": 97.027,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2e2e5e3d773f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/PID extran_master_swmm34_example_SW5.inp",
+  "status": "PASS",
+  "sec": 111.75,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "e2595e2a9329",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/extran1_dual_drainage.inp",
+  "status": "PASS",
+  "sec": 31.754,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "453e1697f65e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/10_Subs_Pond.inp",
+  "status": "PASS",
+  "sec": 329.853,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "671593bce0e5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/OAK.inp",
+  "status": "PASS",
+  "sec": 260.935,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7110b07d04e2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/Saving_Runoff_File.inp",
+  "status": "PASS",
+  "sec": 26.721,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "a058493507b5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_long.inp",
+  "status": "PASS",
+  "sec": 546.712,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9db994062342",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_cms_units.inp",
+  "status": "PASS",
+  "sec": 14.468,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ac03788515b3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_outlet_rating.inp",
+  "status": "PASS",
+  "sec": 15.746,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "afe534a65b23",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_pump_type1.inp",
+  "status": "PASS",
+  "sec": 7.958,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

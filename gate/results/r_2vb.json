@@ -1,0 +1,83 @@
+[
+ {
+  "id": "b93e03b96be9",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/10133299-upstream_downstream_rules_for_swmm5.inp",
+  "status": "PASS",
+  "sec": 15.308,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d34f23754666",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/WALSKI_EXAMPLE_SW5_Short_Peak_Flow.inp",
+  "status": "PASS",
+  "sec": 356.089,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "a53d9f61c462",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/air_release_valve.inp",
+  "status": "PASS",
+  "sec": 845.139,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "b4bfb960f249",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_catenary.inp",
+  "status": "PASS",
+  "sec": 6.609,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "69d4921deb33",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/looped_fm.inp",
+  "status": "PASS",
+  "sec": 38.139,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "acf200a04abc",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/9_Subs.inp",
+  "status": "PASS",
+  "sec": 116.482,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9a94b43e3782",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_branching_network.inp",
+  "status": "PASS",
+  "sec": 12.305,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c44a6b0b3f22",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_storage_functional.inp",
+  "status": "PASS",
+  "sec": 8.854,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "a814c529c3e8",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_storage_tabular.inp",
+  "status": "PASS",
+  "sec": 8.69,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

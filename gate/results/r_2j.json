@@ -1,0 +1,155 @@
+[
+ {
+  "id": "9588d6e66dc0",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/5_H&H_Elements (1).inp",
+  "status": "PASS",
+  "sec": 403.044,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f3b1bf3353cf",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/Normal_Flow_Froude_Number.inp",
+  "status": "PASS",
+  "sec": 54.988,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "22c87e68a427",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/attenuation_KW_High_CE.inp",
+  "status": "PASS",
+  "sec": 1715.651,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d84d80a5bdfd",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_arch.inp",
+  "status": "PASS",
+  "sec": 7.59,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "c3bec9246a2c",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_semi_circular.inp",
+  "status": "PASS",
+  "sec": 7.087,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7dacef4e1bd7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/pressure_net.inp",
+  "status": "PASS",
+  "sec": 51.878,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "0724dfc81568",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/looped_example_1.inp",
+  "status": "PASS",
+  "sec": 35.764,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ca054f2fae0c",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/pump_speed_ratio.inp",
+  "status": "PASS",
+  "sec": 121.199,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "d9b4aecc939f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/GWNODE.inp",
+  "status": "PASS",
+  "sec": 11.673,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "0c3d1d98e5fd",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/Green_Ampt_Impervious_Watershed_Example.inp",
+  "status": "PASS",
+  "sec": 36.989,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ad42c7f7c26a",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SUDS_SWMM5_Example4.inp",
+  "status": "PASS",
+  "sec": 16.084,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "9c77548f873e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/EXAM2_with_numerical_problem_SW5.inp",
+  "status": "PASS",
+  "sec": 39.154,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "acad2a076166",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran5_slot.inp",
+  "status": "PASS",
+  "sec": 6.695,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "391df296ae48",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/extran6_slot.inp",
+  "status": "PASS",
+  "sec": 7.636,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ff461f3d1152",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_combo_all_links.inp",
+  "status": "PASS",
+  "sec": 13.832,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "41c9b4d8ba53",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/test4.inp",
+  "status": "PASS",
+  "sec": 14.861,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "70afc94cb258",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/test5.inp",
+  "status": "PASS",
+  "sec": 32.068,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

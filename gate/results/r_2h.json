@@ -1,0 +1,51 @@
+[
+ {
+  "id": "7cc55328daa0",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/manifold_pumps.inp",
+  "status": "PASS",
+  "sec": 560.386,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "7fe74d4f5627",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/master_extran_with_storage.inp",
+  "status": "PASS",
+  "sec": 70.208,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ffbf329a5dbc",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/Micro Tunnel Modeling.inp",
+  "status": "PASS",
+  "sec": 347.532,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2bd2002b905c",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/17_Sub_90_Link_USA_Units.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.014,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 634",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "72c45780db6d",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/mod_extran1.inp",
+  "status": "PASS",
+  "sec": 7.058,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

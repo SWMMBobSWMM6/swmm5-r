@@ -1,0 +1,69 @@
+[
+ {
+  "id": "d6876698766b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/extran1_vertical_ellipse.inp",
+  "status": "PASS",
+  "sec": 8.385,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "b348de64c7ae",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/infiltration_detetention_pond.inp",
+  "status": "PASS",
+  "sec": 10.726,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "3b054876d97b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/5000_Links_linear_links.inp",
+  "status": "PASS",
+  "sec": 12.846,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "10245dda6972",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/292_Storage_Nodes_200_Subs.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.09,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 2925",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "f8f26e51e5dd",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SeasonalRDIIn.inp",
+  "status": "PASS",
+  "sec": 316.471,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "bd1679cb07d4",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/8_LID_Example_8_Subs_Continuous.inp",
+  "status": "PASS",
+  "sec": 175.842,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "1616ef3bdae2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/variations_on_EMC.inp",
+  "status": "PASS",
+  "sec": 9.997,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

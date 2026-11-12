@@ -1,0 +1,128 @@
+[
+ {
+  "id": "9694617176ee",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/One_Sub_Pump_Model.inp",
+  "status": "PASS",
+  "sec": 177.7,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "76c29506f8c5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/simple_two_pump_model.inp",
+  "status": "PASS",
+  "sec": 98.015,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "8eeb8aafff0c",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/25_Subcatchments_CN_Infiltration.inp",
+  "status": "PASS",
+  "sec": 57.119,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5d35b48d9fbb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/Greenville_6LIDControls_All_LID_Usage.inp",
+  "status": "PASS",
+  "sec": 4.666,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "79e4ad74a6cf",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/LAR_Zero_RTK.inp",
+  "status": "PASS",
+  "sec": 0.799,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "cb5872edbe76",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/NEW_ZEALAND_RDII.inp",
+  "status": "PASS",
+  "sec": 5.204,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "3936616ace70",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SI_GW_Model.inp",
+  "status": "PASS",
+  "sec": 19.124,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "f8f26e51e5dd",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SeasonalRDIIn.inp",
+  "status": "PASS",
+  "sec": 295.379,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "537af5b8a749",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/feng_scs_test_model.inp",
+  "status": "PASS",
+  "sec": 42.736,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "58498b44dec2",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/miami_usgs_rdii.inp",
+  "status": "PASS",
+  "sec": 2.112,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "65dde904771b",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/miami_usgs_rdii_runon.inp",
+  "status": "PASS",
+  "sec": 2.475,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "1cd1b5e4fa0f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/one_sub_one_rdii_node.inp",
+  "status": "PASS",
+  "sec": 1.054,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "124041cdadc1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_long_r1_only.inp",
+  "status": "PASS",
+  "sec": 477.107,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "ba0af8f6deef",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/rtk_usgs_runoff_rdiii.inp",
+  "status": "PASS",
+  "sec": 1.021,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]

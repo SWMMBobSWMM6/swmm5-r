@@ -1,0 +1,15 @@
+[
+ {
+  "id": "325fd17cef32",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/sewer_rdii_problem.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.054,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 397",
+   "len 1"
+  ],
+  "stderr": ""
+ }
+]

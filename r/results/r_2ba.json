@@ -1,0 +1,15 @@
+[
+ {
+  "id": "77e00bc268b0",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SCANLON.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.115,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   992,
+   "Dry Time Step ............ 00:24:00",
+   "Dr"
+  ],
+  "stderr": ""
+ }
+]

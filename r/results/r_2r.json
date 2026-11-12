@@ -1,0 +1,24 @@
+[
+ {
+  "id": "1bc258db7aa7",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/InfoSewer_ICM.inp",
+  "status": "PASS",
+  "sec": 344.879,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "5db30c611edb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/user5_sub_patterns.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.113,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 1392",
+   "len 1"
+  ],
+  "stderr": ""
+ }
+]

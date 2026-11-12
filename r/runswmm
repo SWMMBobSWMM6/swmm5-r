@@ -1,0 +1,3 @@
+#!/bin/sh
+# runswmm - the R port of EPA SWMM 5.2.4 (see README.md): runswmm input.inp report.rpt [output.out]
+exec Rscript --vanilla "$(dirname "$0")/runswmm.R" "$@"

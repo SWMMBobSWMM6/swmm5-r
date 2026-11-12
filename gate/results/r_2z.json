@@ -1,0 +1,51 @@
+[
+ {
+  "id": "5d31cc0198f5",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/Cycling_pumps.inp",
+  "status": "PASS",
+  "sec": 119.424,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "b324949854e3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/31_Subs.inp",
+  "status": "PASS",
+  "sec": 93.375,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "17bc23add21e",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/CN_Horton.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.113,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1,
+   "len 1442",
+   "len 1"
+  ],
+  "stderr": ""
+ },
+ {
+  "id": "8ee1a973b051",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_EXTRAN/exam1_negative_flow_examples.inp",
+  "status": "PASS",
+  "sec": 18.058,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "53a604c094e1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/OWA_ROUTING/routing_trapezoidal.inp",
+  "status": "PASS",
+  "sec": 16.504,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]
